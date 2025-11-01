@@ -38,7 +38,7 @@ The dataset includes:
 - `articles.csv`: Article metadata (type, color, department, etc.)
 - `customers.csv`: Customer metadata (age, club membership, etc.)
 
-## 🏗️ Project Structure
+## Project Structure
 
 ```
 Recommender Systems/
