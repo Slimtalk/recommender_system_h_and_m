@@ -1,0 +1,18 @@
+# Ignore the raw dataset folder
+h_and_m_data/
+
+# Virtual environment
+hm-env/
+venv/
+.venv/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# macOS system files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
